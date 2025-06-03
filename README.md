@@ -1,4 +1,4 @@
-# GTA V Legacy Enhanced Script Menu for Online
+# GTA V mod menu
 
 ## Download GTA V Script Menu here
 
